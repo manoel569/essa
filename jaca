@@ -1,0 +1,31 @@
+#ENTMU
+#EXTINF:-1,Cinemax HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_382cfb3aee3765d3311f10074365599a9ee97ced/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_91b262bcb02ff64b7b50a6dc2ddcd566a425e903.m3u8
+#EXTINF:-1,HBO 2
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/hbo2720p_05a53e36_7818996377b6f93a231a1899eb98a12260d3275c.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/hboplus1080p_39dfc9ff_6b26a776380e6f54bb7ce9b6b21279a33eecf9b8.m3u8
+#EXTINF:-1,FOX HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_221a17a5386092a0a19e1f0b96d01621c5a9428a/playlist.m3u8
+#EXTINF:-1,TNT HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/tnt_9109c85a_6d2a39fa8de57a962d11d14b1660cfc417485bfc.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/megapix_a6f16ab4_b17f44139b4cade6ceb597a87c470a060e85f629.m3u8
+#EXTINF:-1,Max HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_8de3f95e33df3f321d79692f3ec67e612065e0b6/playlist.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_9c041f0904df747f687f1b8ef8cc467b52f38729/playlist.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinefun_ae1e7198_7aa5a4b475711f6e30d07696cd733788b86132a7.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_a76687d2915e0a3814e7ac481a52fdeb0ddce1c7.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_4e6f0b38b1cefdeee614576e5d6dd79c09b3d4c9/playlist.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_a422504ade154a3403a011e2bc1a8dae55ff7b76.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/warnerchannel_0a57cb53_4c77543d3b9054bc8412668a2c3cfc5dec29b68e.m3u8
+
+
