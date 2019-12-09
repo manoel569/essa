@@ -1,0 +1,7 @@
+#ENTM3U
+#EXTINF:-1,Combate
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_50bec40de0d00b5f4aa1781fd451fc06f0c4fe35/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/fox_5a5b0f9b_fc689379e21168757db7b824aa34e0ff7bbcbd36.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/tnt_9109c85a_8ebecdbf2a7635b3caeaf37764e2eee08b96809e/playlist.
