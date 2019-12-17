@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CINEMAX
+http://tvnanet.xyz:25461/live/palmeiras/campeao1951/31.m3u8
+#EXTINF:-1,FOX
+http://tvnanet.xyz:25461/live/palmeiras/campeao1951/86.m3u8
+#EXTINF:-1,HBO
+http://tvnanet.xyz:25461/live/palmeiras/campeao1951/144.m3u8
+#EXTINF:-1,HBO2
+http://tvnanet.xyz:25461/live/palmeiras/campeao1951/136.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_1613bf843cf579b43c4194d641a6d440435e1524/playlist.m3u8
+#EXTINF:-1,TELECINE IPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_4997e77588b6655d1a0363577fb643c7d463cefc/playlist.m3u8
